@@ -1,3 +1,5 @@
+[linear discriminant code.txt](https://github.com/gracekarim/data-analytics-R-project-/files/6368923/linear.discriminant.code.txt)
+[logistics regression code.txt](https://github.com/gracekarim/data-analytics-R-project-/files/6368924/logistics.regression.code.txt)
 # data-analytics-R-project-
 image classifier model 
 •	Use the images file to build a matrix of 3 columns consisting of the medians of the pixels intensities x1:red,x2:gren,x3:blue. 
